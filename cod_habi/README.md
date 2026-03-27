@@ -6,6 +6,16 @@ Otavio Augusto
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="imagens/imagem1.png" width="30%" />
+  <img src="imagens/imagem2.png" width="30%" />
+  <img src="imagens/imagem3.png" width="30%" />
+</p>
+
+---
+
 ## Descricao do Aplicativo
 
 Aplicativo mobile desenvolvido em Flutter para controle de habitos pessoais diarios. O app permite ao usuario visualizar uma lista de habitos, marcar cada um como concluido ou pendente e acompanhar informacoes detalhadas de cada habito, como descricao e sequencia de dias consecutivos realizados. O design segue a identidade visual do Vasco da Gama, com as cores preto, branco e dourado.
